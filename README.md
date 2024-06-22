@@ -1,2 +1,2 @@
 # AIML-Projects
-some beginner level project on AIML
+some beginner level projects on AIML
